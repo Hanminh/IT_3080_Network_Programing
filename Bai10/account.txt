@@ -1,0 +1,3 @@
+admin admin
+minh 1234
+hoang 5678
